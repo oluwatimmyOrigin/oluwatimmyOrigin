@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/oluwatimmyOrigin/oluwatimmyOrigin/blob/main/banner.png?raw=true" alt="OluwatimmyOrigin Banner" />
+</p>
+
 # 👋 Hi, I'm OluwatimmyOrigin
 
 ## 🧠 AI Engineer | 🧬 DeFi & Crypto Strategist | 🛠️ Shipper | Machine Learner

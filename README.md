@@ -71,7 +71,7 @@ Welcome to my digital lab. I build intelligent systems, explore decentralized fi
 ---
 
 ### 📫 Connect With Me
-- Twitter: [@Timi_Ai](https://twitter.com/Timi_Ai)
+- Twitter: [@Miles_hashx](https://twitter.com/miles_hashx)
 - Email: oyelumadeoluwatimileyin@gmail.com
 
 ---
